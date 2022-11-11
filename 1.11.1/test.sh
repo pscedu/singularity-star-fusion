@@ -2,4 +2,4 @@
 
 set -x
 
-tree .
+find . -type f
